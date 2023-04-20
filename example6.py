@@ -8,6 +8,6 @@ receipts = list(csvFile)
 #Remember the file looks like this:
 #customer_id,cashier_id,product_name,department_name,price
 
-meatSales = sum([float(line[4]) for line in receipts if line[3] == "Meat"])
+meatSales = 0.00 #Replace this line with your answer.
 
 print(f"Total of meat sales: {meatSales}")
