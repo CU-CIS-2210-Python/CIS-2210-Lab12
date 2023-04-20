@@ -1,0 +1,105 @@
+customer_id,cashier_id,product_name,department_name,price
+1,1,Apples,Fruit,2.49
+1,1,Ground Beef,Meat,6.99
+2,2,Milk,Dairy,3.29
+2,2,Bananas,Fruit,1.99
+3,3,Cheese,Dairy,4.99
+3,3,Chicken,Meat,8.99
+4,0,Yogurt,Dairy,2.99
+4,0,Pork Chops,Meat,7.49
+5,1,Butter,Dairy,3.99
+5,1,Pineapple,Fruit,3.49
+6,2,Eggs,Dairy,2.49
+6,2,Salmon,Seafood,9.99
+7,3,Bread,Bakery,1.99
+7,3,Beef Jerky,Snacks,5.99
+8,0,Ice Cream,Frozen,4.49
+8,0,Shrimp,Seafood,12.99
+9,1,Cereal,Breakfast,3.99
+9,1,Beef Roast,Meat,10.99
+10,2,Orange Juice,Beverages,2.99
+10,2,Carrots,Vegetables,1.49
+11,3,Soda,Beverages,1.99
+11,3,Potatoes,Vegetables,2.99
+12,0,Coffee,Beverages,6.99
+12,0,Spinach,Vegetables,2.49
+13,1,Tea,Beverages,3.99
+13,1,Pork Ribs,Meat,9.99
+14,2,Corn Chips,Snacks,2.49
+14,2,Turkey,Meat,7.99
+15,3,Water,Beverages,1.49
+15,3,Asparagus,Vegetables,3.99
+16,0,Chips,Snacks,1.99
+16,0,Beef Stew,Meat,6.99
+17,1,Granola Bars,Snacks,3.49
+17,1,Salami,Meat,5.99
+18,2,Chocolate,Bakery,4.99
+18,2,Ham,Meat,8.99
+19,3,Popcorn,Snacks,2.99
+19,3,Tuna,Seafood,4.99
+20,0,Potato Chips,Snacks,1.99
+20,0,Beef Patties,Meat,5.99
+21,1,Pizza,Frozen,7.99
+21,1,Cod,Seafood,11.99
+22,2,Crackers,Snacks,2.49
+22,2,Lamb Chops,Meat,13.99
+23,3,Trail Mix,Snacks,4.49
+23,3,Tilapia,Seafood,8.99
+24,0,Sausage,Meat,4.99
+24,0,Orange,Vegetables,0.99
+25,1,Pop,Candy,1.99
+25,1,Beef Ravioli,Meat,3.99
+26,2,Hot Dogs,Meat,3.49
+26,2,Blueberries,Fruit,2.99
+27,3,Sliced Bread,Bakery,2.49
+27,3,Pancake Mix,Breakfast,3.99
+27,3,Cottage Cheese,Dairy,3.99
+27,3,Cucumber,Vegetables,1.49
+27,3,Feta Cheese,Dairy,5.49
+27,3,Papaya,Fruit,3.99
+27,3,Chicken Breast,Meat,7.99
+27,3,Hot Sauce,Condiments,2.49
+28,0,Onion,Vegetables,0.99
+28,0,Orange Juice,Beverages,2.99
+28,0,Garlic,Vegetables,0.99
+28,0,Canned Soup,Canned Goods,1.99
+28,0,Peaches,Fruit,2.49
+28,0,Ground Turkey,Meat,5.99
+28,0,Bananas,Fruit,1.99
+28,0,Soy Milk,Dairy,3.49
+29,1,Salsa,Condiments,3.49
+29,1,Sweet Potatoes,Vegetables,2.49
+29,1,Pork Sausage,Meat,3.99
+29,1,Pumpkin Pie,Bakery,6.99
+29,1,Tomatoes,Canned Goods,1.49
+29,1,Peas,Frozen,1.99
+29,1,Hot Dogs,Meat,3.49
+29,1,Raisins,Snacks,2.49
+29,1,Beef Soup,Meat,4.49
+29,1,Carrots,Vegetables,1.49
+30,2,Salt,Condiments,1.99
+30,2,Green Beans,Canned Goods,1.49
+30,2,Cheese Pizza,Frozen,5.99
+30,2,Lemonade,Beverages,1.99
+30,2,Chicken Noodle Soup,Canned Goods,2.99
+30,2,Potatoes,Vegetables,2.99
+31,3,Canned Vegetables,Canned Goods,1.99
+31,3,Tofu,Dairy,2.99
+32,0,Frozen Vegetables,Frozen,3.49
+32,0,Green Peppers,Vegetables,1.99
+32,0,Almond Milk,Dairy,3.49
+32,0,Beef Jerky,Snacks,5.99
+32,0,Ground Pork,Meat,6.99
+33,1,Hamburger Buns,Bakery,2.49
+33,1,Frozen Pizza,Frozen,4.99
+33,1,Potato Chips,Snacks,1.99
+33,1,Cheddar Cheese,Dairy,4.49
+33,1,Beef Stew,Meat,6.99
+34,2,Mayonnaise,Condiments,2.49
+34,2,Chicken Wings,Meat,9.99
+34,2,Apples,Fruit,2.49
+34,2,Frozen Dinners,Frozen,3.49
+34,2,Grapefruit,Fruit,1.99
+35,3,Beef Tacos,Meat,7.49
+35,3,Pasta Sauce,Condiments,2.99
+35,3,Canned Fruit,Canned Goods,1.99
